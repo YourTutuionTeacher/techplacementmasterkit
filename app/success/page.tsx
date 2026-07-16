@@ -31,7 +31,7 @@ export default function SuccessPage({
         e.g. a signed URL from cloud storage generated after payment
         verification in /api/razorpay/verify.
       */}
-      <a href="https://gofile.io/d/2uGXXj" className="btn-primary mt-8">
+      <a href="https://gofile.io/d/7Wh9F0" className="btn-primary mt-8">
         <Download size={18} />
         Download Your Kit
       </a>
