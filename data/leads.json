@@ -1,0 +1,28 @@
+[
+  {
+    "id": "c03a0ae9-55ed-4ee0-a92d-90010658ca9a",
+    "name": "Srijan Shrivastava",
+    "email": "srijanshrivastava6261346@gmail.com",
+    "city": "Vidisha, M.P",
+    "phone": "06261346572",
+    "whatsapp": "06261346572",
+    "college": "jhjjk",
+    "message": "",
+    "plan": "Ultimate",
+    "amount": 299,
+    "createdAt": "2026-07-16T07:10:31.132Z"
+  },
+  {
+    "id": "5deeffd1-e385-4fe6-8386-33254dd2d59a",
+    "name": "Srijan Shrivastava",
+    "email": "srijanshrivastava6261346@gmail.com",
+    "city": "Vidisha, M.P",
+    "phone": "06261346572",
+    "whatsapp": "06261346572",
+    "college": "gfdgsg",
+    "message": "",
+    "plan": "Ultimate",
+    "amount": 299,
+    "createdAt": "2026-07-16T07:19:44.293Z"
+  }
+]
