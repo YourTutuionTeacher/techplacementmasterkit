@@ -330,7 +330,7 @@ export const pricingTiers: PricingTier[] = [
       "Lifetime Access",
     ],
     highlight: false,
-    available: false,
+    available: true,
   },
   {
     name: "Pro",
